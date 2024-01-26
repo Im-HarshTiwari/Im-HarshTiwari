@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
-<img algin="left" width = "400" alt="Coding"  src="https://tenor.com/view/bahroo-hacker-panda-hacking-cool-gif-15741061"/> 
+<img algin="left" width = "400" alt="Coding"  src="https://tenor.com/view/coding-gif-25183725"/> 
 <h3 align="center">A passionate full stack (in progress) developer from India</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
