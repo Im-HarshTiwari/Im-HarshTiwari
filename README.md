@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="https://gifdb.com/images/high/i-m-coding-machine-animation-c85t0so5hpi45qw5.webp](https://gifdb.com/gif/i-m-coding-machine-animation-c85t0so5hpi45qw5.html?embed=true" /img>
 <h3 align="center">A passionate full stack (in progress) developer from India</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
