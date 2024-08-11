@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-harsh-tiwari" alt="im-harsh-tiwari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-harshtiwari" alt="im-harsh-tiwari" /></a> </p>
 
 - 🔭 I’m currently working on [DevOps Project](https://github.com/Im-HarshTiwari/DevOps_Project)
 
