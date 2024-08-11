@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
-<img algin="left" width = "400" alt="Coding"  src="https://tenor.com/view/coding-gif-25183725"/> 
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">via GIPHY</a></p>
 <h3 align="center">A passionate full stack (in progress) developer from India</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
