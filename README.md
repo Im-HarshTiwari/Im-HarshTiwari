@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
 <h3 align="center">A passionate DevOps Engineer from India..</h3>
 
+![Visitor Count](https://profile-counter.glitch.me/Im-HarshTiwari/count.svg)
 
 
 - 🔭 I’m currently working on [DevOps Project](https://github.com/Im-HarshTiwari/DevOps_Project)
