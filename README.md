@@ -34,3 +34,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-harshtiwari" alt="im-harsh-tiwari" /></a> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Im-HarshTiwari&theme=dark)](https://git.io/streak-stats)
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Harsh-Tiwar&show_icons=true&theme=radical)
