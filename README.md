@@ -35,4 +35,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Im-HarshTiwari&theme=dark)](https://git.io/streak-stats)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Harsh-Tiwar&show_icons=true&theme=radical)
