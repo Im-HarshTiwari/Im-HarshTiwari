@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
 <h3 align="center">A passionate Web'D & DevOps Engineer from India..</h3>
 
-![](https://komarev.com/ghpvc/?username=Im-HarshTiwari&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=imharshtiwari&label=PROFILE+VIEWS)
 
 
 - 🔭 I’m currently working on [DevOps Project](https://github.com/imharshtiwari/DevOps_Project)
